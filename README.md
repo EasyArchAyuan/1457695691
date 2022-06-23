@@ -2,7 +2,6 @@
 
 ### :zap: Languages I use Java
 
-<br><br>
 
 ### :rocket: Some of the technologies I have worked with
 
