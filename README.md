@@ -1,8 +1,6 @@
 ## :man_technologist: Hey! i'm [Ayuan](https://shen-yu.gitee.io/), a developer from China.
 
-### :zap: Languages I use
-
-<img align="left" src="icons/java.svg" alt="Java" height="40px" />
+### :zap: Languages I use Java
 
 <br><br>
 
