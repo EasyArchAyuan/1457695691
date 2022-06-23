@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @1457695691
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## :man_technologist: Hey! i'm [Ayuan](https://shen-yu.gitee.io/), a developer from China.
 
-<!---
-1457695691/1457695691 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### :zap: Languages I use
+
+<img align="left" src="icons/java.svg" alt="Java" height="40px" />
+
+<br><br>
+
+### :rocket: Some of the technologies I have worked with
+
+
+![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+![Centos](https://img.shields.io/badge/-Centos-000000?style=flat&logo=Centos)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins)
+![Gitee](https://img.shields.io/badge/-Gitee-000000?style=flat&logo=gitee)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+
+
+### 💻 Open Source Work Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=1457695691&show_icons=true)
