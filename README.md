@@ -1,4 +1,4 @@
-## :man_technologist: Hey! i'm [Ayuan](https://github.com/1457695691/), a developer from China.
+## :man_technologist: Hey! i'm [Ayuan](https://github.com/EasyArchAyuan/), a developer from China.
 
 ### :zap: Languages I use Java
 
