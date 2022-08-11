@@ -1,5 +1,8 @@
 ## :man_technologist: Hey! i'm [Ayuan](https://github.com/EasyArchAyuan/), a developer from China.
 
+<p><em>Software Enginner at Beijing </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://chiyanshe.com/">chiyanshe.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 ### :zap: Languages I use Java
 
 
@@ -25,3 +28,11 @@
 ### 💻 Open Source Work Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=EasyArchAyuan&show_icons=true)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+<a href="https://https://dromara.org">
+<img height="120px" src="https://github-readme-stats.vercel.app/api?username=EasyArchAyuan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="EasyArchAyuan GitHub Stats"/>
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EasyArchAyuan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="EasyArchAyuan Tools"/>
+</a>
+
