@@ -3,10 +3,12 @@
 <p><em>Software Enginner at Beijing </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://chiyanshe.com/">chiyanshe.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-### :zap: Languages I use Java
+### :computer: Programming languages and tools: 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 ### :rocket: Some of the technologies I have worked with
-
 ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
