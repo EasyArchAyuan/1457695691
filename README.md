@@ -11,7 +11,6 @@
 ### :rocket: Some of the technologies I have worked with
 ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 ![Centos](https://img.shields.io/badge/-Centos-000000?style=flat&logo=Centos)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu)
