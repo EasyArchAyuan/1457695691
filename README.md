@@ -1,6 +1,6 @@
 ## :man_technologist: Hey! i'm [Ayuan](https://github.com/EasyArchAyuan/), a developer from China.
 
-<p><em>Software Enginner at Beijing </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://chiyanshe.com/">chiyanshe.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at Beijing </a>Developer Consultant at <a href="https://chiyanshe.com/">chiyanshe.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### :computer: Programming languages and tools: 
