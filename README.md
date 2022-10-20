@@ -1,4 +1,4 @@
-## :man_technologist: Hey! i'm [Ayuan](https://github.com/EasyArchAyuan/), a developer from China.
+## :man_technologist: Hey! i'm [Kirin](https://github.com/EasyArchAyuan/), a developer from China.
 
 <p><em>Software Enginner at Beijing ,</a>Developer at <a href="https://chiyanshe.com/">chiyanshe.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
