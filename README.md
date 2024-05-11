@@ -5,24 +5,21 @@
 
 ### :computer: Programming languages and tools: 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 
 ### :rocket: Some of the technologies I have worked with
-![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
+![Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=Spring)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=Redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
-![Centos](https://img.shields.io/badge/-Centos-000000?style=flat&logo=Centos)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
+![Portainer](https://img.shields.io/badge/-Portainer-000000?style=flat&logo=Portainer)
+![Harbor](https://img.shields.io/badge/-Harbor-000000?style=flat&logo=Harbor)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000000?style=flat&logo=Prometheus)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=Postman)
-![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=JetBrains)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=Jenkins)
-![Gitee](https://img.shields.io/badge/-Gitee-000000?style=flat&logo=gitee)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=Ubuntu)
 
 ### 💻 Open Source Work Stats
 
