@@ -1,12 +1,13 @@
 ## :man_technologist: Hey! i'm [Kirin](https://github.com/EasyArchAyuan/), a developer from China.
 
-<p><em>Software Enginner at Beijing ,</a>Developer at <a href="https://chiyanshe.com/">chiyanshe.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at Tianjin ,</a>Developer at <a href="https://liandanxia.com/">liandanxia.com</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### :computer: Programming languages and tools: 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 
 ### :rocket: Some of the technologies I have worked with
 ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX)
